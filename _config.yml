@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Camila Comunello"
   avatar           : "profile.png"
   bio              : ""
-  location         : "Colchester, UK"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.pl/citations?user=-IpBE7AAAAAJ&hl=cs&inst=10816235500371631282m"
@@ -182,10 +182,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
